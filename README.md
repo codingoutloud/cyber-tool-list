@@ -9,5 +9,6 @@ Probably focusing on tools useful to defenders.
      * [Websites](https://bellingcat.gitbook.io/toolkit/categories/websites) - for example, [Complete DNS](https://completedns.com/) can be used to look up a domain's [DNS history](https://completedns.com/dns-history/) and it is currently free for up to 100 such queries per month
      * Their list of [most used tools](https://bellingcat.gitbook.io/toolkit/most-used)
   5. [Look up Microsoft Entra Tenant Id from a domain](https://www.whatismytenantid.com/)
+  6. [What tech is used](https://builtwith.com/github.com) - make help think it through
 
 <sub>Formatted using [GitHub-Flavored Markdown](https://github.github.com/gfm). Pull requests, suggestions (via Issues), and corrections (via Issues) are welcome.</sub>
