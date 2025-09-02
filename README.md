@@ -11,5 +11,6 @@ Probably focusing on tools useful to defenders.
   5. [Look up Microsoft Entra Tenant Id from a domain](https://www.whatismytenantid.com/)
   6. [What tech is used](https://builtwith.com/github.com) - make help think it through
   7. [Maester](https://maester.dev/) - scans Entra and Azure for configuration best practices
+  8. [Zonemaster](https://zonemaster.net/en/run-test) - validates the quality of DNS delegation
 
 <sub>Formatted using [GitHub-Flavored Markdown](https://github.github.com/gfm). Pull requests, suggestions (via Issues), and corrections (via Issues) are welcome.</sub>
