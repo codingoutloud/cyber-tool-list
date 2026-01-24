@@ -13,5 +13,6 @@ Probably focusing on tools useful to defenders.
   7. [Maester](https://maester.dev/) - scans Entra and Azure for configuration best practices
   8. [Zonemaster](https://zonemaster.net/en/run-test) - validates the quality of DNS delegation
   9. [What is your Azure logo Microsoft Azure and Microsoft logo Microsoft 365 tenant ID?](https://www.whatismytenantid.com/) - lookup tool
+  10. [Inspects all SSL certificates and DNS records for every domain loaded by a webpage](https://github.com/shanselman/cert-inspector)
 
 <sub>Formatted using [GitHub-Flavored Markdown](https://github.github.com/gfm). Pull requests, suggestions (via Issues), and corrections (via Issues) are welcome.</sub>
