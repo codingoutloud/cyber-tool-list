@@ -1,5 +1,7 @@
 # cyber-tool-list
-Probably focusing on tools useful to defenders.
+
+Probably biased towards tools useful to defenders.
+
   1. [BrowserLeaks](https://browserleaks.com/) - what information is your web browser leaking?
   2. [Mozilla Observatory](https://observatory.mozilla.org/) - what security deficiencies does your website have?
      * Example: [Mozilla Observatory analysis of doingazure.com](https://observatory.mozilla.org/analyze/doingazure.com) 
@@ -16,5 +18,9 @@ Probably focusing on tools useful to defenders.
   10. [Inspects all SSL certificates and DNS records for every domain loaded by a webpage](https://github.com/shanselman/cert-inspector)
   11. [report-uri](https://report-uri.com/) service tracks http-reported CSP policy violations
   12. Collection of [awesome forensic tools](https://github.com/cugu/awesome-forensics)
+
+Some tools are also privacy enabling.
+
+1. Google has a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)
 
 <sub>Formatted using [GitHub-Flavored Markdown](https://github.github.com/gfm). Pull requests, suggestions (via Issues), and corrections (via Issues) are welcome.</sub>
